@@ -1,1 +1,2 @@
 # arlan
+git init arlan
